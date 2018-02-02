@@ -1,11 +1,11 @@
 # helloworld_go
 very first go project
 
-##Compile
+## Compile
 run `go build` inside src/helloworld
 
-##Run
+## Run
 run `./helloworld` inside src/helloworld
 
-##Cleanup
+## Cleanup
 run `go clean` inside src/helloworld
